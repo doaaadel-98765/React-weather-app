@@ -1,0 +1,63 @@
+
+{
+
+    "min":"الصغري",
+    "max": "الكبري",
+    "clear sky": "سماء صافيه",
+    "Riyadh":"الرياض",
+
+    
+  "cityTranslations": {
+    "Cairo": "القاهرة",
+    "Alexandria": "الإسكندرية",
+    "Giza": "الجيزة",
+    "Riyadh": "الرياض",
+    "Jeddah": "جدة",
+    "Mecca": "مكة المكرمة",
+    "Medina": "المدينة المنورة",
+    "Dubai": "دبي",
+    "Sharjah": "الشارقة",
+    "AbuDhabi": "أبوظبي",
+    "Doha": "الدوحة",
+    "Manama": "المنامة",
+    "Muscat": "مسقط",
+    "Amman": "عمّان",
+    "Beirut": "بيروت",
+    "Baghdad": "بغداد",
+    "Damascus": "دمشق",
+    "Khartoum": "الخرطوم",
+    "Tunis": "تونس",
+    "Algiers": "الجزائر",
+    "Tripoli": "طرابلس",
+    "Rabat": "الرباط",
+    "Casablanca": "الدار البيضاء",
+    "Sanaa": "صنعاء",
+    "Aden": "عدن",
+    "London": "لندن",
+    "Paris": "باريس",
+    "Berlin": "برلين",
+    "Madrid": "مدريد",
+    "Rome": "روما",
+    "NewYork": "نيويورك",
+    "LosAngeles": "لوس أنجلوس",
+    "Washington": "واشنطن",
+    "Tokyo": "طوكيو",
+    "Seoul": "سول",
+    "Beijing": "بكين",
+    "Shanghai": "شنغهاي",
+    "Mumbai": "مومباي",
+    "Delhi": "دلهي",
+    "Bangkok": "بانكوك",
+    "Istanbul": "إسطنبول",
+    "Moscow": "موسكو",
+    "Toronto": "تورنتو",
+    "Sydney": "سيدني",
+    "Melbourne": "ملبورن",
+    "MexicoCity": "مكسيكو سيتي",
+    "SaoPaulo": "ساو باولو",
+    "BuenosAires": "بوينس آيرس",
+    "Johannesburg": "جوهانسبرغ"
+  }
+
+}
+
